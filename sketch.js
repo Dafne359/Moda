@@ -7,10 +7,10 @@ function setup() {
   createCanvas(400, 400);
   
   
-  camisa = loadImage("camisa.png");
-  pantalon = loadImage("pantalon.png");
-  chaqueta = loadImage("chaqueta.png");
-  zapatos = loadImage("zapatos.png");
+  camisa = loadImage("camisa.jpg");
+  pantalon = loadImage("pantalon.jpg");
+  chaqueta = loadImage("chaqueta.jpg");
+  zapatos = loadImage("zapatos.jpg");
 }
 
 function draw() {
